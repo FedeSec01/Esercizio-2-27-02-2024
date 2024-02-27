@@ -1,0 +1,76 @@
+A) 1.1.1.1/8
+Classe: A
+Ottetti per la subnetmask: 1
+Ottetti per gli host: 3
+Ip network 1.0.0.0
+Ip gateway (convenzionale) 1.0.0.1
+Ip broadcast 1.255.255.255
+CIDR notation /8
+Subnet mask 255.0.0.0
+Numero Host: 16.777.214 (+2: 1 di broadcast e 1 di network)
+
+B) 128.1.6.5/12
+Classe: B
+Ottetti per la subnetmask: 2
+Ottetti per gli host: 2
+Ip network 128.0.0.0
+Ip gateway (convenzionale) 128.0.0.1
+Ip broadcast 128.15.255.255
+CIDR notation /12
+Subnet mask 255.240.0.0
+Numero Host: 1.048.574 (+2: 1 di broadcast e 1 di network)
+
+C) 200.1.2.3/24
+Classe: C
+Ottetti per la subnetmask: 3
+Ottetti per gli host: 1
+Ip network 200.1.2.0
+Ip gateway (convenzionale) 200.1.2.1
+Ip broadcast 200.1.2.255
+CIDR notation /24
+Subnet mask 255.255.255.0
+Numero Host: 254 (+2: 1 di broadcast e 1 di network)
+
+D) 192.192.1.1/22
+Classe: C
+Ottetti per la subnetmask: 2
+Ottetti per gli host: 2
+Ip network 192.192.0.0
+Ip gateway (convenzionale) 192.192.0.1
+Ip broadcast 192.192.4.255
+CIDR notation /22
+Subnet mask 255.255.252.0
+Numero Host: 1022 (+2: 1 di broadcast e 1 di network)
+
+E) 126.5.4.3/9
+Classe: A 
+Ottetti per la subnetmask: 1
+Ottetti per gli host: 3
+Ip network 126.0.0.0
+Ip gateway (convenzionale) 126.0.0.1
+Ip broadcast 126.127.255.255
+CIDR notation /9
+Subnet mask 255.128.0.0
+Numero Host: 8.388.606 (+2: 1 di broadcast e 1 di network)
+
+F) 200.1.9.8/24
+Classe: C
+Ottetti per la subnetmask: 3
+Ottetti per gli host: 1
+Ip network 200.1.9.0
+Ip gateway (convenzionale) 200.1.9.1
+Ip broadcast 200.1.9.255
+CIDR notation /24
+Subnet mask 255.255.255.0
+Numero Host: 254 (+2: 1 di broadcast e 1 di network)
+
+G) 172.16.0.4/16
+Classe: B
+Ottetti per la subnetmask: 2
+Ottetti per gli host: 2
+Ip network 172.16.0.0
+Ip gateway (convenzionale) 172.16.0.1
+Ip broadcast 172.16.255.255
+CIDR notation /16
+Subnet mask 255.255.0.0
+Numero Host: 65.534 (+2: 1 di broadcast e 1 di network)
